@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bhartbhammar3336@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vhDhYiyTdu-4ZvrFULtB3hgj83HWz8VJ/view?usp=drivesdk](https://drive.google.com/file/d/1vhDhYiyTdu-4ZvrFULtB3hgj83HWz8VJ/view?usp=drivesdk)
 
 - ⚡ Fun fact **I can't lie to other.**
 
