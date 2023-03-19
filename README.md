@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **.Net and C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bharat0509/PortFolio](https://github.com/Bharat0509/PortFolio)
+- 👨‍💻 All of my projects are available at [https://bharat0509.github.io/PortFolio/](https://bharat0509.github.io/PortFolio/)
 
 - 💬 Ask me about **React , MongoDb , Redux , MERN**
 
