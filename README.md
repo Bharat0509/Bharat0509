@@ -34,3 +34,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat0509&show_icons=true&locale=en" alt="bharat0509" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharat0509&" alt="bharat0509" /></p>
+
+
+
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+	
+	
+<p align = "center">
+	<img src = "https://github.com/Bharat0509/Bharat0509/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
