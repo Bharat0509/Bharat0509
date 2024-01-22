@@ -1,5 +1,5 @@
 
-<img align="left" alt="Full Stack Web Developer" width="1200" src="https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966">
+<img align="left" alt="Full Stack Web Developer" width="1200" src="https://miro.medium.com/v2/resize:fit:679/1*IRGHmiGsa16stedQvIaZfw.gif">
 <h1 align="center">Hi 👋, I'm Bharat Bhammar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
