@@ -1,6 +1,6 @@
 
 <img align="left" alt="Full Stack Web Developer" width="1200" src="https://miro.medium.com/v2/resize:fit:679/1*IRGHmiGsa16stedQvIaZfw.gif">
-<h1 align="center">Hi 👋, I'm Bharat Bhammar</h1>
+<h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" height="30" width="30"/>, I'm Bharat Bhammar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
