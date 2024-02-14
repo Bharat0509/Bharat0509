@@ -43,6 +43,6 @@
 	
 	
 <p align = "center">
-	<img src = "https://github.com/Bharat0509/Bharat0509/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src="https://raw.githubusercontent.com/Bharat0509/Bharat0509/output/snake.svg" alt="Snake animation" />
 </p>
 
