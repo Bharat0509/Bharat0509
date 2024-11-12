@@ -1,7 +1,6 @@
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=Bharat0509&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Bharat0509)
-[![WakaTime](https://wakatime.com/badge/user/018de01b-1c88-4698-b625-b3f77f8af0f7.svg)](https://wakatime.com/@018de01b-1c88-4698-b625-b3f77f8af0f7)
 
 <div style="background: linear-gradient(to right, #00ff87, #60efff); padding: 20px; border-radius: 10px; margin: 20px 0;">
   <img src="/hero.png" alt="Hero banner" style="max-width: 100%; height: auto;"/>
